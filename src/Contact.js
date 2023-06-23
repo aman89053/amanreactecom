@@ -41,6 +41,7 @@ const Contact = () => {
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.60682377611!2d79.58749680934471!3d24.911389543128564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398297dbc1d24645%3A0xd38a2ac54a605852!2sModi%20Homeo%20Clinic!5e0!3m2!1sen!2sin!4v1686345663820!5m2!1sen!2sin"
         width="100%"
         height="400"
+        title="Iframexew"
         style={{ border: 0 }}
         allowFullScreen=""
         loading="lazy"
