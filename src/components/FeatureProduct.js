@@ -3,7 +3,7 @@ import styled from "styled-components";
 import Product from "./Product";
 
 const FeatureProduct = () => {
-  const { isLoading, featureProducts, isError } = useProductContext();
+  const { isLoading, featureProducts } = useProductContext();
 
   if (isLoading) {
     return <div> ......Loading </div>;
